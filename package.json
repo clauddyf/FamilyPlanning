@@ -1,0 +1,15 @@
+{
+  "name": "familyplanning",
+  "version": "1.0.0",
+  "description": "family planning app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node node_modules/react-native/local-cli/cli.js start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-cli": "^2.0.1"
+  }
+}
