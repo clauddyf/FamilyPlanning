@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.family.familyplanning</string>
+	<string>com.familyplanning.app</string>
 	<key>PROJECT_ID</key>
 	<string>familyplanning-2024</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:229074503538:ios:1b59b9cdf3e3c670e1ffeb</string>
+	<string>1:229074503538:ios:26eca6da1961e644e1ffeb</string>
 </dict>
 </plist>
